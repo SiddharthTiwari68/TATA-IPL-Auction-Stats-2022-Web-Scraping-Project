@@ -3,9 +3,9 @@
 This project scrapes the player auction statistics from the 2022 IPL Auction webpage and exports the data to a CSV file for analysis. The project uses Python with libraries like requests, BeautifulSoup, and pandas for web scraping and data manipulation.
 
 # Table of Contents
-Project Overview
-Technologies Used
-Features
+1. Project Overview
+2. Technologies Used
+3. Features
 
 # Project Overview
 The TATA IPL Auction Stats 2022 Web Scraping project is designed to extract information on players, their auction prices, and team allocations from the IPL official auction page for the year 2022. The data is then saved in a CSV file for further analysis or visualization.
